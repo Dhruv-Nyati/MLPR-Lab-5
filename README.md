@@ -26,12 +26,12 @@ Dr Shashi Tharoor
 
 Plots:
 Plaksha Faculty Plot
-![Plaksha Faculty Image Clustering Based on Hue and Saturation](Images/Face Image Clustering Based on Hue and Saturation Plot.png)
+![Plaksha Faculty Image Clustering Based on Hue and Saturation](Images/Face-plot.png)
 
 Dr Shashi Tharoor + Plaksha Faculty Plot
-![Template Plot](Images/Template Image Clustering Based on Hue and Saturation Plot.png)
+![Template Plot](Images/Template.png)
 
 Scatter Plots:
-![Plaksha Faculty Image Clustering Based on Hue and Saturation Scatter Plot](Images/Face Image Clustering Based on Hue and Saturation.png)
+![Plaksha Faculty Image Clustering Based on Hue and Saturation Scatter Plot](Images/Face.png)
 
-![Template Plot](Images/Template Image Clustering Based on Hue and Saturation.png)
+![Template Plot](Images/Template-scatter.png)
