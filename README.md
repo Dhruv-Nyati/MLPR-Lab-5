@@ -18,8 +18,20 @@ Methodology:
   - Visualization
 
 Images Used:
+Plaksha Faculty
 ![Plaksha Faculty](Images/Plaksha_Faculty.jpg)
-![Dr Shashi Tharoor](images/Dr_Shashi_Tharoor.jpg)
+
+Dr Shashi Tharoor
+![Dr Shashi Tharoor](Images/Dr_Shashi_Tharoor.jpg)
 
 Plots:
-![Plaksha Faculty Image Clustering Based on Hue and Saturation](images/Face Image Clustering Based on Hue and Saturation Plot.png)
+Plaksha Faculty Plot
+![Plaksha Faculty Image Clustering Based on Hue and Saturation](Images/Face Image Clustering Based on Hue and Saturation Plot.png)
+
+Dr Shashi Tharoor + Plaksha Faculty Plot
+![Template Plot](Images/Template Image Clustering Based on Hue and Saturation Plot.png)
+
+Scatter Plots:
+![Plaksha Faculty Image Clustering Based on Hue and Saturation Scatter Plot](Images/Face Image Clustering Based on Hue and Saturation.png)
+
+![Template Plot](Images/Template Image Clustering Based on Hue and Saturation.png)
