@@ -18,7 +18,7 @@ Methodology:
   - Visualization
 
 Images Used:
-![Plaksha Faculty](images/Plaksha_Faculty.jpg)
+![Plaksha Faculty](Images/Plaksha_Faculty.jpg)
 ![Dr Shashi Tharoor](images/Dr_Shashi_Tharoor.jpg)
 
 Plots:
